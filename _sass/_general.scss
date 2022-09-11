@@ -255,8 +255,13 @@ video {
   .width-wide img {
     margin-left: calc(425px - 50vw);
     margin-right: calc(425px - 50vw);
-    max-width: none;
     width: calc(100vw - 90px);
+    
+  }
+  .width-narrow {
+    max-width: 3000px;
+    max-height: 300px;
+    overflow: hidden; 
   }
 }
 
@@ -265,6 +270,14 @@ video {
     margin-left: -60px;
     margin-right: -60px;
     width: 880px;
+  }
+}
+
+@media only screen and (max-width: 851px) {
+  .width-narrow {
+    max-width: 3000px;
+    max-height: 300px;
+    overflow: hidden; 
   }
 }
 

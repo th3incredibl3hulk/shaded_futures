@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "MAME"
+date:   2022-06-09 21:21:01 -0000
+categories: MAME
+tags: [MAME, walkthrough, arcade]
+---
+## Overview
+I've begun working on a  [MAME][mame] cabinet and have really struggled to find good walkthroughs so thought I'd start recording on my (likely to be long) journey. If you're not familiar, click that link as MAME is generally regarded as the best arcade cabinet emulator and basically every reference for similar arcade cabinets pointed back to it.
+
+<!--more-->
+
+There are many considerations with MAME of course but so far I've run into decisions on:
+* Emulation software
+* The actual setup (2 v 4 player)
+* Joystick/button hardware
+* Emulator/PC hardware
+
+....and I haven't started building yet....before I get rolling though, I personally recommend [r/mame][rmame] and [r/cade][rcade] on Reddit as good resources. Great communities that I have used for questions and some good inspiration as well.
+
+### Emulation Software
+The first hurdle to clear, quickly, was what emulation software to use.  You might think I'm about to suggest MAME but actually, I suggest: multiple.  The reality is the more I think about this cabinet, the more I think modern arcade cabinets are limited.  There are so many good emulators now:
+* Citra
+* Snes9x
+* Retroarch
+* Dolphin
+* PCSX
+* Redream
+
+So why limit yourself to one?  While I'm not decided on my final design, I am leaning toward a highly custom cabinet where I can swap out components or open up the cabinet to play with a USB Playstation or N64 controller.
+
+<b>Weird note with MAME:</b> For reasons I don't understand yet, your ROMs and your emulator have to match versions to play.  If you have MAME 13, your ROMs have to be the same version. If you get an error message when launching, check that first.
+
+### Player Setup
+Player setup is (mostly) easy.  Two or four player?  Sure, you can do one or three player you psychopath.  My considerations were really:
+* Size of the cabinet (four is obviously a LOT bigger for both screen and cabinet and thus much heavier)
+* Number of people you really expect to play it (will two people be squished if you can't space four player setups out?)
+* Other gear you want (roller ball, light guns, etc.)
+
+One note: if you choose to do a prefab cabinet from a vendor, I have had a REALLY tough time finding a four player one.  I'm planning to build my own so that's not a major concern but you should be aware.  That may also come into play if you look for artwork as most artwork seems designed for a 2P setup.
+
+
+### Joystick/Button Hardware
+I thought joystick and button hardware would be an easier decision but it turned out to take quite a while.  Firstly, there just isn't that much availability in my research.  Mainly, if you're not looking for actual original arcade hardware (which you'll have to scrounge from a dead/restored cabinet), Amazon is probably the best place.
+
+I ended up with [EasyGet's][easyget] LED button and joystick hardware which I'm fond of so far.  The setup is easy and it works in 8-way and 4-way setup (forum discussion [here][joystick-disc] if you want to read more).  It's probably juvenile but I also like that the buttons light up and you can remove the covers and add your own artwork on each button if you want.  This isn't my style but an [example of what I mean.](/seven_timelines/images/custom-buttons.jpg)
+
+Other than this, there are maybe 1-3 other brands that are easily purchaseable but I couldn't find much overwhelming praise one way or another.  FWIW, **Sanwa** was mentioned several times in my reseach Seems like, unless you're looking for super high end gear, you should be fine with something with good reviews.
+
+
+### Emulator/PC Hardware
+And finally, I had to evaluate what kind of hardware I want for my emulator.  Many projects I've seen run off a simple Gen 3 Raspberry Pi and they're so cheap and so easy to use, you can easily create your arcade with one.  I have previously setup emulators with a Pi and it is at worst a weekend project for newbies in the Pi space.
+
+Moreover, the Pis have gotten better and better over time so you can run more and more games.  However, you must decide on what games and emulators you want to run BEFORE you make this call.  Nearly all the simple arcade games (Pac Man, Galaga, etc.) will run without a sweat on a Pi but remember, not all emulators are equal.  In my case, I REALLY want to run NFL Blitz Arcade and so far, I think I will run it on MAME.  Note: for this particular game, you can run it on Dreamcast as some have done and just map the controls but I didn't want to.
+
+However, the Blitz port for MAME is pretty much always poorly designed. This is not a knock on the engineers doing this incredibly hard (and unrewarded) work but rather, a function of closed knowledge. Blitz hardware specs are not shared and so, engineers are using methods from other games as approximations and they just aren't perfect.  The result to me: I need hardware with an i7 intel chip or later and probably 8GB RAM (I'm looking for 16GB).  My hardware will choke on bad code so I need to compensate.
+
+<b>How can I test that before I buy my gear?</b>
+You will need to find some other way to test it (I run MAME on a Linux machine I have sitting around) or you'll want to look for the games you want in forums where people are having issues or you'll have to overbuy your hardware and hope for the best.  The last option is: setup a Pi (like $40 to start) and see if that works for you.  I'm going to prototype anyway until I get what I want so why not try that with hardware?
+
+
+
+
+
+
+[mame]:https://pages.github.com/
+[rmame]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6vMv-iqT4AhVzLH0KHSuLB2QQFnoECAoQAQ&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMAME%2F&usg=AOvVaw1ChbtXrWJwUIOavB1qwVVu
+[rcade]: https://www.reddit.com/r/cade/
+[easyget]: https://www.amazon.com/gp/product/B00WAZK5K8/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1
+[joystick-disc]: https://www.giantbomb.com/super-street-fighter-iv/3030-28437/forums/what-is-the-difference-between-a-4-and-8-way-stick-439168/

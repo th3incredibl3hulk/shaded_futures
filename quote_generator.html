@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<main class="main-content fadeInDown delay_075s">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{page.title}}</h1>
+      {% if page.feature_image and page.feature_image != "" %}
+      <figure class="post-thumbnail image-card width-wide">
+        <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
+      </figure><!-- .post-thumbnail -->
+      {% endif %}
+    </header><!-- .post-header -->
+    <h1 class="post-title">Quote Generator</h1>
+    <p>This is just a random quote generator stocked with every quote I’ve ever liked.  
+        Hearing things you already know intrinsically from someone else’s perspective 
+        makes the learning land better.  Enjoy!</p>
+    <div class="post-content">
+        <div id="quoteDisplay">
+            <!-- Quote displays here-->
+        </div>
+        <br>
+      <button onclick="newQuote()">New Quote</button>
+          
+      <script src="quote-machine.js"></script>  
+    </div><!-- .post-content -->
+  </article><!-- .post -->
+</main><!-- .site-main -->
+
+
+
+
