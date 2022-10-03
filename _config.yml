@@ -69,3 +69,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+#URL Config
+baseurl: "/shaded_futures" # the subpath of your site, e.g. /blog
+url: "https://th3incredibl3hulk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
