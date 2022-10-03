@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Out of Breath"
+title: "Shaded Futures"
 
 # A description of your site for meta tag, search engine results.
-description: "The Nation that makes a great distinction between its scholars and its warriors will have its thinking done by cowards and its fighting done by fools. -- Thucydides"
+description: '"A society grows great when old men plant trees whose shade they know they shall never sit in. --Greek Proverb"'
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
