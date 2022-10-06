@@ -48,6 +48,20 @@ var quotes=[
     '"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." --Unknown',
     '"I don\'t count my sit ups; I only start counting when it starts hurting because they\'re the only ones that count." --Muhammad Ali',
     '"Replace \'I don\'t have time\' with \'It\'s not important\' and see how that feels." --Robin Arzon',
+    '"Reasons to live give reasons to die" --Mav, The Hate U Give',
+    '"In order to mold his people, God often has to melt them." --Amish Proverb',
+    '"Don\'t ever become a pessimist...a pessimist is correct oftener than an optimist, but an optimist has more fun, and neither can stop the march of events." --Robert A. Heinlen',
+    '"You can\'t go back and change the beginning, but you can start where you are and change the ending." --C.S. Lewis',
+    '"The Chinese use two brush strokes to write the word \'crisis\'. One brush stroke for danger; the other for opportunity. In a crisis, be aware of the danger but recognize the opportunity" --John F. Kennedy',
+    '"We are kept keen on the grindstone of pain and necessity." -- H.G. Wells, The Time Machine',
+    '"Whatever nightmares the future holds are dreams compared to what\'s behind me." --Gamora, Guardians of the Galaxy',
+    '"Some people can read \'War and Peace\' and come away thinking it\'s a simple adventure story.  Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." --Lex Luthor, Superman',
+    '"Once you\'ve accepted your flaws, no one can use them against you." --Peter Dinklage',
+    '"Teach your children early what you learned late." --Richard Feynman',
+    '"One day or dat one.  You decide." --Unknown',
+    '"The last mile is always the least crowded." --Unknown',
+    '"He who conquers others is strong; he who conquers himself is mighty." --Lao Tzu, Tao Te Ching',
+    
 
     //Miscellaneous
     '"What is presented without evidence can be refuted without evidence" --Christopher hitchens',

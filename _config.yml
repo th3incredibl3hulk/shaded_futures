@@ -29,15 +29,13 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /shaded_futures/
   - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
+    url: /shaded_futures/about/
   - text: Tags
-    url: /tags/
+    url: /shaded_futures/tags/
   - text: Quote Generator
-    url: /quote_generator.html
+    url: /shaded_futures/quote_generator.html
 
 
 # The shortname for your Disqus site to enable comments.
