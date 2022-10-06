@@ -31,9 +31,9 @@ navigation:
   - text: Home
     url: /shaded_futures/
   - text: About
-    url: /shaded_futures/about/
+    url: /shaded_futures/about
   - text: Tags
-    url: /shaded_futures/tags/
+    url: /shaded_futures/tags
   - text: Quote Generator
     url: /shaded_futures/quote_generator.html
 
