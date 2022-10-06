@@ -15,10 +15,10 @@ title: "Shaded Futures"
 description: '"A society grows great when old men plant trees whose shade they know they shall never sit in. --Greek Proverb"'
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/shaded_futures"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-#url: "https://scriptor-jekyll.netlify.com"
+url: "https://th3incredibl3hulk.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -69,5 +69,5 @@ sass:
   style: compressed
 
 #URL Config
-baseurl: "/shaded_futures" # the subpath of your site, e.g. /blog
-url: "https://th3incredibl3hulk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/shaded_futures" # the subpath of your site, e.g. /blog
+#url: "https://th3incredibl3hulk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
