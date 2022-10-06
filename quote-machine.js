@@ -61,7 +61,9 @@ var quotes=[
     '"One day or dat one.  You decide." --Unknown',
     '"The last mile is always the least crowded." --Unknown',
     '"He who conquers others is strong; he who conquers himself is mighty." --Lao Tzu, Tao Te Ching',
-    
+    '"The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet not withstanding, go out to meet it." --Thucydides',
+    '"Be ashamed to die until you have won some victory for humanity." --Horace Mann',
+    '"Success is stumbling from failure to failure with no loss of enthusiasm." --Winston Churchill',
 
     //Miscellaneous
     '"What is presented without evidence can be refuted without evidence" --Christopher hitchens',
