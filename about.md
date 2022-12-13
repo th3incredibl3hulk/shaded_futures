@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+feature_image: images/monet_thames.jpg
 ---
 
 > Do not seek to follow the footsteps of the men of old.  Seek what they sought." --Basho

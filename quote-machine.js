@@ -219,7 +219,8 @@ var quotes=[
     '"The more corrupt the government, the more numerous the laws." --Tacitus',
     '"Operationally, God is beginning to resemble not a ruler, but the last fading smile of a cosmic Cheshire cat." --Julian Huxley',
     '"Death, so called, is a thing which makes men weep, and yet a third of life is spent in sleep." --Lord Byron',
-    '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji'
+    '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji',
+    '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki'
 ]
 
 function newQuote(){
