@@ -15,7 +15,7 @@ title: "Shaded Futures"
 description: '"A society grows great when old men plant trees whose shade they know they shall never sit in. --Greek Proverb"'
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/shaded_futures"
+baseurl: "/shaded_futures/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://th3incredibl3hulk.github.io"
