@@ -106,7 +106,7 @@ May well be stopped by three.<br>
 Now who will stand on either hand,<br>
 And keep the bridge with me?”<br>
 
-Horatius<br>
+Horatius from Lays of Ancient Rome<br>
 By Thomas Babington Macaulay<br>
 (side note: the [full tale here][horatius_link] is worth a read if so inclined)
 
