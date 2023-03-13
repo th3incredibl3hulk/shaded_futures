@@ -71,6 +71,7 @@ var quotes=[
     '"Be a warrior, not a worrier." --Unknown',
     '"Don\'t cling to a mistake just because you spent a lot of time making it." --Unknown',
     '"Be the kind of man that when your feet hit the floor in the morning, the devil says \'Oh shit, he\'s up!\'"',
+    '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation'
     
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -78,6 +79,7 @@ var quotes=[
     '"I don\'t like that man very much.  I must get to know him better." --Abraham Lincoln',
     '"Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed." --Herman Melville',
     '"Be kind for everyone you meet is fighting a battle you know nothing about."  --Plato',
+    '"If men could only know each other, they would neither idolize nor hate." --Elbert Hubbard',
 
     //Miscellaneous
     '"Don\'t lose your temper, some poor soul may find it." --Unknown',
@@ -200,13 +202,14 @@ var quotes=[
     '"Once we are done with Italy, people won\'t travel as far as Naples to see the Italian ruins." --Winston Churchill',
     '"If you find yourself in a fair fight your tactics suck." --Unknown',
     '"I am a patient man and I have much to do." --Odd Thomas',
-    '"Weakness and ignorance are not barriers to survival, but arrogance is." --Cixin Liu, Death\'s End',
+    '"Weakness and ignorance are not barriers to survival, but arrogance is." -- Cixin Liu, Death\'s End',
     '"The Nation that makes a great distinction between its scholars and its warriors will have its thinking done by cowards and its fighting done by fools. --Thucydides"',
     '"There is no frigate like a book to take us lands away" --Emily Dickinson',
-    '"When you leave it to chance then you all of a sudden don’t have anymore luck"  --Unknown',
+    '"When you leave it to chance then you all of a sudden don’t have anymore luck"  -- Unknown',
     '"You ain’t the boss of me sir you surely ain’t. The only thing you could do right now is kill me and you still wouldn’t be the boss of me" --The Long Earth by Terry Pratchett',
     '"There is no shortcut to any place worth going." --Beverly Sills',
-    
+    '"I am very poorly today and very stupid and hate everybody and everything." -- Charles Darwin, Letter to Charles Lyell, Oct 1 1861',
+    '"Everything is vague to a degree you do not realize until you try to make it precise."  -- Bertrand Russell',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
