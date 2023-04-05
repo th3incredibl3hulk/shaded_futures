@@ -71,7 +71,7 @@ var quotes=[
     '"Be a warrior, not a worrier." --Unknown',
     '"Don\'t cling to a mistake just because you spent a lot of time making it." --Unknown',
     '"Be the kind of man that when your feet hit the floor in the morning, the devil says \'Oh shit, he\'s up!\'"',
-    '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation'
+    '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation',
     
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -229,7 +229,9 @@ var quotes=[
     '"Operationally, God is beginning to resemble not a ruler, but the last fading smile of a cosmic Cheshire cat." --Julian Huxley',
     '"Death, so called, is a thing which makes men weep, and yet a third of life is spent in sleep." --Lord Byron',
     '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji',
-    '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki'
+    '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki',
+    '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
+    '"Before we\'re through with them, the Japanese language will be spoken only in hell."'
 ]
 
 function newQuote(){
