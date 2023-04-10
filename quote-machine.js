@@ -72,6 +72,8 @@ var quotes=[
     '"Don\'t cling to a mistake just because you spent a lot of time making it." --Unknown',
     '"Be the kind of man that when your feet hit the floor in the morning, the devil says \'Oh shit, he\'s up!\'"',
     '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation',
+    '"If we don\'t change direction soon, we\'ll end up where were going." --Irwin Corey',
+    '"Those who do not move, do not notice their chains." --Rosa Luxemburg'
     
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -205,11 +207,12 @@ var quotes=[
     '"Weakness and ignorance are not barriers to survival, but arrogance is." -- Cixin Liu, Death\'s End',
     '"The Nation that makes a great distinction between its scholars and its warriors will have its thinking done by cowards and its fighting done by fools. --Thucydides"',
     '"There is no frigate like a book to take us lands away" --Emily Dickinson',
-    '"When you leave it to chance then you all of a sudden don’t have anymore luck"  -- Unknown',
+    '"When you leave it to chance then you all of a sudden don’t have anymore luck"  --Unknown',
     '"You ain’t the boss of me sir you surely ain’t. The only thing you could do right now is kill me and you still wouldn’t be the boss of me" --The Long Earth by Terry Pratchett',
     '"There is no shortcut to any place worth going." --Beverly Sills',
-    '"I am very poorly today and very stupid and hate everybody and everything." -- Charles Darwin, Letter to Charles Lyell, Oct 1 1861',
+    '"I am very poorly today and very stupid and hate everybody and everything." --Charles Darwin, Letter to Charles Lyell, Oct 1 1861',
     '"Everything is vague to a degree you do not realize until you try to make it precise."  -- Bertrand Russell',
+    '"Don\'t estimate all of humanity by the limits of your own capability." --Unknown',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -231,7 +234,7 @@ var quotes=[
     '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji',
     '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki',
     '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
-    '"Before we\'re through with them, the Japanese language will be spoken only in hell."'
+    '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr'
 ]
 
 function newQuote(){
