@@ -73,7 +73,7 @@ var quotes=[
     '"Be the kind of man that when your feet hit the floor in the morning, the devil says \'Oh shit, he\'s up!\'"',
     '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation',
     '"If we don\'t change direction soon, we\'ll end up where were going." --Irwin Corey',
-    '"Those who do not move, do not notice their chains." --Rosa Luxemburg'
+    '"Those who do not move, do not notice their chains." --Rosa Luxemburg',
     
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
