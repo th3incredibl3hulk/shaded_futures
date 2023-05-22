@@ -110,6 +110,16 @@ Horatius from Lays of Ancient Rome<br>
 By Thomas Babington Macaulay<br>
 (side note: the [full tale here][horatius_link] is worth a read if so inclined)
 
+---
+
+It's easy enough to be pleasant <br>
+When life goes by like a song, <br>
+But the man worthwhile <br>
+Is the man with a smile <br>
+When everything goes dead wrong.<br>
+
+Poem by Ella Wheeler Wilcox
+
 
 
 

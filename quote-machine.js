@@ -74,6 +74,7 @@ var quotes=[
     '“I never, in my life, felt more certain that I was doing right, than I do in signing this paper. If my name ever goes into history it will be for this act, and my whole soul is in it.” — Abraham Lincoln, signing the Emancipation Proclamation',
     '"If we don\'t change direction soon, we\'ll end up where were going." --Irwin Corey',
     '"Those who do not move, do not notice their chains." --Rosa Luxemburg',
+    '"What I cannot create, I do not understand." -- Richard Feynman',
     
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -213,6 +214,7 @@ var quotes=[
     '"I am very poorly today and very stupid and hate everybody and everything." --Charles Darwin, Letter to Charles Lyell, Oct 1 1861',
     '"Everything is vague to a degree you do not realize until you try to make it precise."  -- Bertrand Russell',
     '"Don\'t estimate all of humanity by the limits of your own capability." --Unknown',
+    '""A man with one watch always knows the time but a man with two watches is never sure." -- Unknown',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
