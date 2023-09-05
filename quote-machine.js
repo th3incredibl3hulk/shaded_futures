@@ -75,7 +75,11 @@ var quotes=[
     '"If we don\'t change direction soon, we\'ll end up where were going." --Irwin Corey',
     '"Those who do not move, do not notice their chains." --Rosa Luxemburg',
     '"What I cannot create, I do not understand." -- Richard Feynman',
-    
+    '"Marines never die, they just go to hell and regroup." -- Unkown',
+    '"I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do." -- Edward Everett Hale',
+    '"During a gold rush, sell shovels." -- Saying from the California gold rush, mid-19th century',
+    '"Be greedy when others are fearful, be fearful when others are greedy" -- Warren Buffet',
+
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
     '"To err is human, to forgive is divine." --William Shakespeare',
@@ -83,6 +87,9 @@ var quotes=[
     '"Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed." --Herman Melville',
     '"Be kind for everyone you meet is fighting a battle you know nothing about."  --Plato',
     '"If men could only know each other, they would neither idolize nor hate." --Elbert Hubbard',
+
+    //Love 
+    '"“There\'s so much of you here with me, really, that it\'s a pity you aren\'t all here.” -- D.H. Lawrence, Lady Chatterly\'s Lover',
 
     //Miscellaneous
     '"Don\'t lose your temper, some poor soul may find it." --Unknown',
@@ -209,12 +216,18 @@ var quotes=[
     '"The Nation that makes a great distinction between its scholars and its warriors will have its thinking done by cowards and its fighting done by fools. --Thucydides"',
     '"There is no frigate like a book to take us lands away" --Emily Dickinson',
     '"When you leave it to chance then you all of a sudden don’t have anymore luck"  --Unknown',
-    '"You ain’t the boss of me sir you surely ain’t. The only thing you could do right now is kill me and you still wouldn’t be the boss of me" --The Long Earth by Terry Pratchett',
+    '"You ain’t the boss of me sir you surely ain’t. The only thing you could do right now is kill me and you still wouldn\'t be the boss of me" --The Long Earth by Terry Pratchett',
     '"There is no shortcut to any place worth going." --Beverly Sills',
     '"I am very poorly today and very stupid and hate everybody and everything." --Charles Darwin, Letter to Charles Lyell, Oct 1 1861',
     '"Everything is vague to a degree you do not realize until you try to make it precise."  -- Bertrand Russell',
     '"Don\'t estimate all of humanity by the limits of your own capability." --Unknown',
     '""A man with one watch always knows the time but a man with two watches is never sure." -- Unknown',
+    '"The horrors persist but so do I" -- Internet Meme',
+    '"She wished some help would come from outside. But in the whole world there was no help. Society was terrible because it was insane. Civilized society is insane. Money and so-called love are its two great manias; money a long way first. The individual asserts himself in his disconnected insanity in these two modes: money and love." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"No, it\'s man that poisons the universe” -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"If you could only tell them that living and spending isn\'t the same thing!" -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"Money poisons you when you\'ve got it, and starves you when you have\'t." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"The men are limp, they feel a doom somewhere, and they go about as if there was nothing to be done.  Anyhow, nobody knows what should be done in spite of all the talk, the young ones get mad because they\'ve no money to spend.  Their whole life depends on spending money, and now they\'ve got none to spend.  That\'s our whole civilization and our education: bring up the masses to depend entirely on spending money, and then the money gives out." -- D.H. Lawrence, Lady Chatterly\'s Lover',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
