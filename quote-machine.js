@@ -79,6 +79,9 @@ var quotes=[
     '"I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do." -- Edward Everett Hale',
     '"During a gold rush, sell shovels." -- Saying from the California gold rush, mid-19th century',
     '"Be greedy when others are fearful, be fearful when others are greedy" -- Warren Buffet',
+    '"Ours is essentially a tragic age, so we refuse to take it tragically." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"Then tell Wind and Fire where to stop,” returned madame; “but don\'t tell me." -- Charles Dickens, A Tale of Two Cities',
+    '"Fools talk, cowards are silent, wise men listen." -- Carlos Ruiz Zafon, The Shadow of the Wind',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -228,6 +231,7 @@ var quotes=[
     '"If you could only tell them that living and spending isn\'t the same thing!" -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Money poisons you when you\'ve got it, and starves you when you have\'t." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"The men are limp, they feel a doom somewhere, and they go about as if there was nothing to be done.  Anyhow, nobody knows what should be done in spite of all the talk, the young ones get mad because they\'ve no money to spend.  Their whole life depends on spending money, and now they\'ve got none to spend.  That\'s our whole civilization and our education: bring up the masses to depend entirely on spending money, and then the money gives out." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"Friendship means little when it\'s convenient" -- Koji Shimazu',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
