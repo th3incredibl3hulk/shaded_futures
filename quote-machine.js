@@ -66,6 +66,7 @@ var quotes=[
     '"Success is stumbling from failure to failure with no loss of enthusiasm." --Winston Churchill',
     '"He who opens a school door, closes a prison." --Victor Hugo',
     '"In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." --Theodore Roosevelt',
+    //Inspiring
     '"I never lose.  I either win or learn." --Nelson Mandela',
     '"Well done is better than well said." --Benjamin Franklin',
     '"Be a warrior, not a worrier." --Unknown',
@@ -82,6 +83,12 @@ var quotes=[
     '"Ours is essentially a tragic age, so we refuse to take it tragically." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Then tell Wind and Fire where to stop,” returned madame; “but don\'t tell me." -- Charles Dickens, A Tale of Two Cities',
     '"Fools talk, cowards are silent, wise men listen." -- Carlos Ruiz Zafon, The Shadow of the Wind',
+    '"We\'ll start the war from right here!” -- Theodore Roosevelt, Jr when he was delivered to the wrong beach on D-Day',
+    '"You\'re born looking like your dad but you die looking like your decisions." -- Unknown',
+    '"I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do.” -- Edward Everett Hale',
+    '"Envy is the art of counting someone else\'s blessings instead of your own." -- Harold Coffin',
+    '"Don\'t let your ice cream melt while you\'re counting someone else\'s sprinkles." -- Akilah Hughes',
+    '"Clifford and his cronies were not anti-social; they were more or less bent on saving mankind, or on instructing it, to say the least." -- D.H. Lawrence, Lady Chatterly\'s Lover',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -92,7 +99,10 @@ var quotes=[
     '"If men could only know each other, they would neither idolize nor hate." --Elbert Hubbard',
 
     //Love 
-    '"“There\'s so much of you here with me, really, that it\'s a pity you aren\'t all here.” -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"At the touch of love, everyone becomes a poet." --Plato',
+    '"You are loved but more importantly, you are worthy of love." --Mena, The Paradox Hotel',
+    '"There\'s so much of you here with me, really, that it\'s a pity you aren\'t all here.” -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"There\'s lots of good fish in the sea...maybe...but the vast masses seem to be mackerel or herring, and if you\'re not mackerel or herring yourself, you are likely to find very few good fish in the sea.” -― D.H. Lawrence, Lady Chatterley\'s Lover',
 
     //Miscellaneous
     '"Don\'t lose your temper, some poor soul may find it." --Unknown',
@@ -131,6 +141,7 @@ var quotes=[
     '"\'Classic\', a book people praise and don\'t read." --Mark Twain, Following the Equator',
     '"There are many humorous things in the world; among them, the white man\'s notion that he is less savage than other savages." --Mark Twain, Following the Equator',
     '"Wrinkles should merely indicate where smiles have been." --Mark Twain, Following the Equator',
+    //Miscellaneous
     '"France has neither winter nor summer nor morals.  Apart from these drawbacks, it is a fine country." --Mark Twain',
     '"The radical invents the views.  When he has worn them out, the conservative adopts them." --Mark Twain',
     '"Never let your schooling interfere with your education." --Mark Twain',
@@ -212,6 +223,7 @@ var quotes=[
     '"We thus conclude that the conduct of war is fundamentally a dynamic process of human competition, requiring both the knowledge of science and the creativity of art, but driven ultimately by the power of human will." --USMC, MCDP1 Warfighting',
     '"Truth is like poetry. And most people fucking hate poetry." --Overheard in a DC bar',
     '"Hey, did you hear the Italians made a new fleet of Navy ships? They made them with glass bottoms so that you can see the old ships from last year" --WWII joke',
+    //Miscellaneous
     '"Once we are done with Italy, people won\'t travel as far as Naples to see the Italian ruins." --Winston Churchill',
     '"If you find yourself in a fair fight your tactics suck." --Unknown',
     '"I am a patient man and I have much to do." --Odd Thomas',
@@ -232,6 +244,7 @@ var quotes=[
     '"Money poisons you when you\'ve got it, and starves you when you have\'t." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"The men are limp, they feel a doom somewhere, and they go about as if there was nothing to be done.  Anyhow, nobody knows what should be done in spite of all the talk, the young ones get mad because they\'ve no money to spend.  Their whole life depends on spending money, and now they\'ve got none to spend.  That\'s our whole civilization and our education: bring up the masses to depend entirely on spending money, and then the money gives out." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Friendship means little when it\'s convenient" -- Koji Shimazu',
+    '"Before we had billionaire CEOs there was money in this country" -- Some random grandma mentioned in a Reddit post',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
