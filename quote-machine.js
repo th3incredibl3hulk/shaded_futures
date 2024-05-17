@@ -89,6 +89,7 @@ var quotes=[
     '"Envy is the art of counting someone else\'s blessings instead of your own." -- Harold Coffin',
     '"Don\'t let your ice cream melt while you\'re counting someone else\'s sprinkles." -- Akilah Hughes',
     '"Clifford and his cronies were not anti-social; they were more or less bent on saving mankind, or on instructing it, to say the least." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"Do not be sorry. Be better." -- Kratos, God of War',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -201,7 +202,7 @@ var quotes=[
     '"The inherent view of capitalism is the unequal sharing of blessings; the inherent view of socialism is the equal sharing of miseries." --Winston Churchill',
     '"Without a sign, his sword the brave man draws, and asks no omen, but his country\'s cause" --Homer, The Iliad',
     '"Those that sow the wind will reap the whirlwind." --Hosea 8:7',
-    '"History is filed with the sound of silken slippers going downstairs and wooden shoes coming up." --Voltaire discussing civilization decline',
+    '"History is filled with the sound of silken slippers going downstairs and wooden shoes coming up." --Voltaire discussing civilization decline',
     '"Beware that, when fighting monsters, you yourself do not become a monster...for when you gaze long into the abyss, the abyss gazes also into you." --Friederich Nietzsche',
     '"If you want to play god, you have to be acquainted with the devil." --Robert Ford, Westworld',
     '"There are two times in a man\'s life when he should not speculate: when he can\'t afford it and when he can." --Mark Twain',
@@ -245,6 +246,11 @@ var quotes=[
     '"The men are limp, they feel a doom somewhere, and they go about as if there was nothing to be done.  Anyhow, nobody knows what should be done in spite of all the talk, the young ones get mad because they\'ve no money to spend.  Their whole life depends on spending money, and now they\'ve got none to spend.  That\'s our whole civilization and our education: bring up the masses to depend entirely on spending money, and then the money gives out." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Friendship means little when it\'s convenient" -- Koji Shimazu',
     '"Before we had billionaire CEOs there was money in this country" -- Some random grandma mentioned in a Reddit post',
+    '"The only thing new in the world is the history you do not know." ―- Harry S. Truman',
+    '"John Bull can stand many things, but he can\’t stand 2 percent" -- Walter Bagehot \n \n Penned in 1852 in regards to investor demand for yields higher than 2%, even when risking speculation.  \"John Bull\" was just a generic name for an investor in England at that time.',
+    '"So, just to be clear, the choices here are \'homicidal maniac\' or \'shit tornado\'?" -- John Scalzi, Kaiju Preservation Society',
+    '"Power is the ultimate aphrodisiac" -— Henry Kissinger',
+    '"In a guerrilla war, the guerrilla wins if he does not lose. The conventional army loses if it does not win.” -— Henry Kissinger',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -266,7 +272,9 @@ var quotes=[
     '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji',
     '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki',
     '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
-    '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr'
+    '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr',
+    '"The wicked flee when no man pursueth: but the righteous are bold as a lion." -- Proverbs 28:1',
+    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' \n Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! SImpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
 ]
 
 function newQuote(){
