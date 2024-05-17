@@ -39,7 +39,7 @@ var quotes=[
     '"Write the bad things that happen to you in the sand, but write the good things that happen to you on a piece of marble." --Arabic Proverb',
     '"Most people never run far enough on their first wind to realize they\'ve got a second" --William James',
     '"Striving for excellence motivates you.  Striving for perfection is demoralizing." --Harriet Braiker',
-    '"How body from spirit slowly does unwind'+'\n'+'Until we are pure spirit at the end." --Infirmity by Theodor Roethke',
+    '"How body from spirit slowly does unwind <br> Until we are pure spirit at the end." --Infirmity by Theodor Roethke',
     '"The devil whispered in my ear \'You\'re not strong enough to withstand the storm.\' Today I whispered in the devil\'s ear \'I am the storm\'" --Unknown',
     '"To laugh often and much, to win the respect of intelligent people and of children, to earn the appreciation of honest critics and endure the betrayal of false friends, to appreciate beauty, to find the best in others, to leave the world a bit better, whether by a healthy child, a garden patch...to know even one life breathed easier because you have lived.  This is to have succeeded!" --Ralph Waldo Emerson',
     '"The World offers you comfort.  But you were not made for comfort.  You were made for greatness." --Pope Benedict XVI',
@@ -90,6 +90,7 @@ var quotes=[
     '"Don\'t let your ice cream melt while you\'re counting someone else\'s sprinkles." -- Akilah Hughes',
     '"Clifford and his cronies were not anti-social; they were more or less bent on saving mankind, or on instructing it, to say the least." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Do not be sorry. Be better." -- Kratos, God of War',
+    '"A healthy person has a hundred wishes. A sick person has only one." -- Unknown',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -247,10 +248,13 @@ var quotes=[
     '"Friendship means little when it\'s convenient" -- Koji Shimazu',
     '"Before we had billionaire CEOs there was money in this country" -- Some random grandma mentioned in a Reddit post',
     '"The only thing new in the world is the history you do not know." ―- Harry S. Truman',
-    '"John Bull can stand many things, but he can\’t stand 2 percent" -- Walter Bagehot \n \n Penned in 1852 in regards to investor demand for yields higher than 2%, even when risking speculation.  \"John Bull\" was just a generic name for an investor in England at that time.',
+    '"John Bull can stand many things, but he can\’t stand 2 percent" -- Walter Bagehot <br> <br> Penned in 1852 in regards to investor demand for yields higher than 2%, even when risking speculation.  \"John Bull\" was just a generic name for an investor in England at that time.',
     '"So, just to be clear, the choices here are \'homicidal maniac\' or \'shit tornado\'?" -- John Scalzi, Kaiju Preservation Society',
     '"Power is the ultimate aphrodisiac" -— Henry Kissinger',
     '"In a guerrilla war, the guerrilla wins if he does not lose. The conventional army loses if it does not win.” -— Henry Kissinger',
+    '"The disputes are so bitter because the stakes are so small" -— Henry Kissinger on academic departmental squabbling',
+    '"Nothing frightens me more than a person unwilling to learn, even at their own expense. That is a kind of darkness I will never understand.” -- G.H. Scott, Leave the World Behind',
+    '"For twenty-three days, the astronomers of Cathay and Araby tell us, this supernova dominated the sky, almost as bright as the sun, the most incandescent event in recorded history. No other nova ever came close to this one. <br><br>This great star, which must have been the most extraordinary sight in the history of the heavens during mankind\'s observation, was noted in China, in Arabia, in Alaska, in Arizona, and in the South Pacific, for we have their records to prove it. But in Europe nobody saw it. From Italy to Moscow, from the Urals to Ireland, nobody saw it. At least, they made no mention of it. they lived through one of the Earth\'s most magnificent spectacles and nobody bothered even to note the fact in any parchment, or speculate upon it in any manuscript. <br><br>We know the event took place, for with a telescope tonight we can see the remnants of the supernova hiding in Taurus, but we have searched every library in the western world without finding a single shred of evidence that the learned people of Europe even bothered to notice what was happening about them. <br><br>An age is called Dark not because the light fails to shine, but because people refuse to see it." -- James A Michener',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -274,7 +278,7 @@ var quotes=[
     '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
     '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr',
     '"The wicked flee when no man pursueth: but the righteous are bold as a lion." -- Proverbs 28:1',
-    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' \n Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! SImpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
+    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! SImpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
 ]
 
 function newQuote(){
