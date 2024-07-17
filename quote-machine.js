@@ -160,7 +160,7 @@ var quotes=[
     '"It is amazing how humanity can degrade a situation into total violence and chaos and, upon the appearance of a leader and movement, marvel at its own ability to fix it." --Unknown', //Larry Hau
     '"Forgive me, my friends, for the length of my speech.  If I\'d had more time to write it, it would have been shorter." --Abraham Lincoln',
     '"Be sure you put your feet in the right place and then stand firm." --Abraham Lincoln',
-    '"You\'re never as good as everyone tells you when you win and you\'re never as bad as they say when you love." --Lou Holtz',
+    '"You\'re never as good as everyone tells you when you win and you\'re never as bad as they say when you lose." --Lou Holtz',
     '"For disappearing acts, it\'s hard to beat what happens to the eight hours supposedly left after eight of sleep and eight of work." --Doug Lasson',
     '"I want it said of me by those who knew me best, that I always plucked a thistle and planted a flower where I thought a flower would grow." --Abraham Lincoln',
     '"It takes less time to do a thing right than to explain why you did it wrong." --Henry Wadsworth Longfellow',
