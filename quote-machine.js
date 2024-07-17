@@ -42,7 +42,7 @@ var quotes=[
     '"How body from spirit slowly does unwind <br> Until we are pure spirit at the end." --Infirmity by Theodor Roethke',
     '"The devil whispered in my ear \'You\'re not strong enough to withstand the storm.\' Today I whispered in the devil\'s ear \'I am the storm\'" --Unknown',
     '"To laugh often and much, to win the respect of intelligent people and of children, to earn the appreciation of honest critics and endure the betrayal of false friends, to appreciate beauty, to find the best in others, to leave the world a bit better, whether by a healthy child, a garden patch...to know even one life breathed easier because you have lived.  This is to have succeeded!" --Ralph Waldo Emerson',
-    '"The World offers you comfort.  But you were not made for comfort.  You were made for greatness." --Pope Benedict XVI',
+    '"The world offers you comfort.  But you were not made for comfort.  You were made for greatness." --Pope Benedict XVI',
     '"We must all suffer from one of two pains: the pain of discipline or the pain of regret." --Jim Rohn',
     '"Great empires are not maintained by timidity." --Tacitus',
     '"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." --Unknown',
@@ -177,7 +177,7 @@ var quotes=[
     '"Idle hands do the devil\'s work." --Professor Powell, Indiana University',
     '"Cut your chains and you become free.  Cut your roots and you die.  Differentiating between the two, however, requires the judgment of experience." --Unknown',
     '"Have no fear of perfection. You\'ll never reach it. --Salvador Dali',
-    '"A tiger cannot change its strips." --Tom Hanks, Cloud Atlas',
+    '"A tiger cannot change its stripes." --Tom Hanks, Cloud Atlas',
     '"The weak are meat and the strong do eat." --Tom Hanks, Cloud Atlas',
     '"Something lurks in that soup. We would do well not to thrust into it too deeply." --German Admiral Hipper, Battle of Jutland, WWI',
     '"A fanatic is one who can\'t change his mind and won\'t change the subject." --Winston Churchill',
@@ -248,7 +248,7 @@ var quotes=[
     '"Friendship means little when it\'s convenient" -- Koji Shimazu',
     '"Before we had billionaire CEOs there was money in this country" -- Some random grandma mentioned in a Reddit post',
     '"The only thing new in the world is the history you do not know." ―- Harry S. Truman',
-    '"John Bull can stand many things, but he can\’t stand 2 percent" -- Walter Bagehot <br> <br> Penned in 1852 in regards to investor demand for yields higher than 2%, even when risking speculation.  \"John Bull\" was just a generic name for an investor in England at that time.',
+    '"John Bull can stand many things, but he can\’t stand 2%" -- Walter Bagehot <br> <br> Penned in 1852 in regards to investor demand for yields higher than 2%, even when risking speculation.  \"John Bull\" was just a generic name for an investor in England at that time.',
     '"So, just to be clear, the choices here are \'homicidal maniac\' or \'shit tornado\'?" -- John Scalzi, Kaiju Preservation Society',
     '"Power is the ultimate aphrodisiac" -— Henry Kissinger',
     '"In a guerrilla war, the guerrilla wins if he does not lose. The conventional army loses if it does not win.” -— Henry Kissinger',
@@ -274,11 +274,11 @@ var quotes=[
     '"Operationally, God is beginning to resemble not a ruler, but the last fading smile of a cosmic Cheshire cat." --Julian Huxley',
     '"Death, so called, is a thing which makes men weep, and yet a third of life is spent in sleep." --Lord Byron',
     '"You know why god could create the universe in six days?  He didn\'t have an install base." --Subroto Mukerji',
-    '"In the beginners mind there are many possibilities , in the experts mind there are few." --Zen Master Shunryu Suzuki',
+    '"In the beginner\'s mind there are many possibilities , in the expert\'s mind there are few." --Zen Master Shunryu Suzuki',
     '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
     '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr',
     '"The wicked flee when no man pursueth: but the righteous are bold as a lion." -- Proverbs 28:1',
-    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! SImpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
+    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! Simpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
 ]
 
 function newQuote(){
