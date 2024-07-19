@@ -91,6 +91,8 @@ var quotes=[
     '"Clifford and his cronies were not anti-social; they were more or less bent on saving mankind, or on instructing it, to say the least." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Do not be sorry. Be better." -- Kratos, God of War',
     '"A healthy person has a hundred wishes. A sick person has only one." -- Unknown',
+    '“My darling girl, when are you going to realize that being normal is not necessarily a virtue? It rather denotes a lack of courage." -- Alice Hoffman, Practical Magic',
+
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -255,6 +257,19 @@ var quotes=[
     '"The disputes are so bitter because the stakes are so small" -— Henry Kissinger on academic departmental squabbling',
     '"Nothing frightens me more than a person unwilling to learn, even at their own expense. That is a kind of darkness I will never understand.” -- G.H. Scott, Leave the World Behind',
     '"For twenty-three days, the astronomers of Cathay and Araby tell us, this supernova dominated the sky, almost as bright as the sun, the most incandescent event in recorded history. No other nova ever came close to this one. <br><br>This great star, which must have been the most extraordinary sight in the history of the heavens during mankind\'s observation, was noted in China, in Arabia, in Alaska, in Arizona, and in the South Pacific, for we have their records to prove it. But in Europe nobody saw it. From Italy to Moscow, from the Urals to Ireland, nobody saw it. At least, they made no mention of it. they lived through one of the Earth\'s most magnificent spectacles and nobody bothered even to note the fact in any parchment, or speculate upon it in any manuscript. <br><br>We know the event took place, for with a telescope tonight we can see the remnants of the supernova hiding in Taurus, but we have searched every library in the western world without finding a single shred of evidence that the learned people of Europe even bothered to notice what was happening about them. <br><br>An age is called Dark not because the light fails to shine, but because people refuse to see it." -- James A Michener',
+    '"He\'s a sheep in sheep\'s clothing" -- Winston Churchill',
+    '"I hope, sir, that I will shoot your picture on your hundredth birthday."<br><br>"I don\'t see why not, young man. You look reasonably fit and healthy." -- Winston Churchill to his photographer on his 75th birthday.',
+    '"“A modest man with much to be modest about.” -- Winston Churchill',
+    '"He has all the virtues I dislike and none of the vices I admire." -- Winston Churchill',
+    '"This paper, by its very length, defends itself from ever being read.” -- Winston Churchill',
+    '"This is just the sort of nonsense up with which I will not put." -- Winston Churchill',
+    '“Tiger got to hunt, bird got to fly;<br><br>Man got to sit and wonder \'why, why, why?\'<br><br>Tiger got to sleep, bird got to land;<br><br>Man got to tell himself he understand.” -― Kurt Vonnegut, Cat\’s Cradle',
+    '“In the beginning, God created the earth, and he looked upon it in His cosmic loneliness.<br><br>And God said, "Let Us make living creatures out of mud, so the mud can see what We have done." And God created every living creature that now moveth, and one was man. Mud as man alone could speak. God leaned close to mud as man sat up, looked around, and spoke. Man blinked. "What is the purpose of all this?" he asked politely.<br><br>"Everything must have a purpose?" asked God.<br><br>"Certainly," said man.<br><br>"Then I leave it to you to think of one for all this," said God.<br><br>And He went away.” -― Kurt Vonnegut, Cat\’s Cradle ',
+    '"The failure mode of clever is asshole" -- John scalzi',
+    //Miscellaneous
+    '"People have to talk about something just to keep their voice boxes in working order so they\'ll have good voice boxes in case there\'s ever anything really meaningful to say.” -― Kurt Vonnegut, Cat\’s Cradle',
+    '“Don\'t interrupt me while I\'m interrupting.” -- Winston Churchill',
+    '"Of all the words of mice and men, the saddest are, \'It might have been.\' -- Kurt Vonnegut, Cat\'s Cradle',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
