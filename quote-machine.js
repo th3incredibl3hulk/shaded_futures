@@ -245,7 +245,7 @@ var quotes=[
     '"She wished some help would come from outside. But in the whole world there was no help. Society was terrible because it was insane. Civilized society is insane. Money and so-called love are its two great manias; money a long way first. The individual asserts himself in his disconnected insanity in these two modes: money and love." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"No, it\'s man that poisons the universe” -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"If you could only tell them that living and spending isn\'t the same thing!" -- D.H. Lawrence, Lady Chatterly\'s Lover',
-    '"Money poisons you when you\'ve got it, and starves you when you have\'t." -- D.H. Lawrence, Lady Chatterly\'s Lover',
+    '"Money poisons you when you\'ve got it, and starves you when you haven\'t." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"The men are limp, they feel a doom somewhere, and they go about as if there was nothing to be done.  Anyhow, nobody knows what should be done in spite of all the talk, the young ones get mad because they\'ve no money to spend.  Their whole life depends on spending money, and now they\'ve got none to spend.  That\'s our whole civilization and our education: bring up the masses to depend entirely on spending money, and then the money gives out." -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"Friendship means little when it\'s convenient" -- Koji Shimazu',
     '"Before we had billionaire CEOs there was money in this country" -- Some random grandma mentioned in a Reddit post',
