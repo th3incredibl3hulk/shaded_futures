@@ -22,7 +22,7 @@ var quotes=[
     '"I must study politics that my sons may have the liberty to study mathematics and philosophy." --John Adams',
     '"Experience is the name everyone gives to their mistakes" --Oscar Wilde',
     '"Every flower must grow through dirt." --Anonymous',
-    '"Character may be manifested in the great moments, but it is made in teh small ones" --Phillip Brooks',
+    '"Character may be manifested in the great moments, but it is made in the small ones" --Phillip Brooks',
     '"You can\'t build a reputation on what you are going to do." --Henry Ford',
     '"He who limps is still walking" --Stainslaw J Lec',
     '"Courage is the price that life exacts for granting peace." --Amelia Earhart',
