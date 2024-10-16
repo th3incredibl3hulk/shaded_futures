@@ -107,6 +107,7 @@ var quotes=[
     '"You are loved but more importantly, you are worthy of love." --Mena, The Paradox Hotel',
     '"There\'s so much of you here with me, really, that it\'s a pity you aren\'t all here.” -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"There\'s lots of good fish in the sea...maybe...but the vast masses seem to be mackerel or herring, and if you\'re not mackerel or herring yourself, you are likely to find very few good fish in the sea.” -― D.H. Lawrence, Lady Chatterley\'s Lover',
+    '"But, Dad…” she hesitated, “It will mean raising me all over again. It means suffering through my childhood for a third time. No parent should be asked to do that.” <br><br>Sol managed a smile. “No parent would refuse that, Rachel.” -― Dan Simmons, The Fall of Hyperion',
 
     //Miscellaneous
     '"Don\'t lose your temper, some poor soul may find it." --Unknown',
@@ -266,6 +267,9 @@ var quotes=[
     '“Tiger got to hunt, bird got to fly;<br><br>Man got to sit and wonder \'why, why, why?\'<br><br>Tiger got to sleep, bird got to land;<br><br>Man got to tell himself he understand.” -― Kurt Vonnegut, Cat\’s Cradle',
     '“In the beginning, God created the earth, and he looked upon it in His cosmic loneliness.<br><br>And God said, "Let Us make living creatures out of mud, so the mud can see what We have done." And God created every living creature that now moveth, and one was man. Mud as man alone could speak. God leaned close to mud as man sat up, looked around, and spoke. Man blinked. "What is the purpose of all this?" he asked politely.<br><br>"Everything must have a purpose?" asked God.<br><br>"Certainly," said man.<br><br>"Then I leave it to you to think of one for all this," said God.<br><br>And He went away.” -― Kurt Vonnegut, Cat\’s Cradle ',
     '"The failure mode of clever is asshole" -- John scalzi',
+    '"And if there\'s one thing worse than chlamydia, it\'s Florida." -- Easy A',
+    '"I thought he was a young man of promise, but it appears he is a young man of promises." -- Arthur Balfour of Winston Churchill after Churchill voted against his party\'s poverty support bill',
+
     //Miscellaneous
     '"People have to talk about something just to keep their voice boxes in working order so they\'ll have good voice boxes in case there\'s ever anything really meaningful to say.” -― Kurt Vonnegut, Cat\’s Cradle',
     '“Don\'t interrupt me while I\'m interrupting.” -- Winston Churchill',
