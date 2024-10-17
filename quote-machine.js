@@ -274,6 +274,8 @@ var quotes=[
     '"People have to talk about something just to keep their voice boxes in working order so they\'ll have good voice boxes in case there\'s ever anything really meaningful to say.” -― Kurt Vonnegut, Cat\’s Cradle',
     '“Don\'t interrupt me while I\'m interrupting.” -- Winston Churchill',
     '"Of all the words of mice and men, the saddest are, \'It might have been.\' -- Kurt Vonnegut, Cat\'s Cradle',
+    'Tory MP, speaking of Churchill: "We just dont know what to make of him." <br>Lady Astor: "How about a nice rug?"',
+    'Winston Churchill was once asked, “Doesn\’t it thrill you to know that every time you make a speech, the hall is packed to overflowing?”  <br><br>“It\’s quite flattering,” replied Winston, “But whenever I feel that way, I always remember that if instead of making a political speech I was being hanged, the crowd would be twice as big."',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -297,7 +299,8 @@ var quotes=[
     '“Capitalism without failure is like religion without hell” Berkshire Hathaway Inc. Vice Chairman Charlie Munger has said, paraphrasing the late economist Allan Meltzer.',
     '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr',
     '"The wicked flee when no man pursueth: but the righteous are bold as a lion." -- Proverbs 28:1',
-    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! Simpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959'
+    '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! Simpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959',
+    '"Religion and ethics were not always—or even frequently—mutually compatible. The demands of religious absolutism or fundamentalism or rampaging relativism often reflected the worst aspects of contemporary culture or prejudices rather than a system which both man and God could live under with a sense of real justice." --Dan Simmons, The Fall of Hyperion'
 ]
 
 function newQuote(){
