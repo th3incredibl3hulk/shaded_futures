@@ -92,7 +92,10 @@ var quotes=[
     '"Do not be sorry. Be better." -- Kratos, God of War',
     '"A healthy person has a hundred wishes. A sick person has only one." -- Unknown',
     '“My darling girl, when are you going to realize that being normal is not necessarily a virtue? It rather denotes a lack of courage." -- Alice Hoffman, Practical Magic',
-
+    '"Happiness is results minus expectations" --Tom Magliozzi',
+    '"At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. <br><br>Heller responds,“Yes, but I have something he will never have — enough.”',
+    '"Success is a lousy teacher. It seduces smart people into thinking they can\'t lose." --Bill Gates',
+    '"I would rather be right than consistent." --Winston Churchill',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -276,6 +279,8 @@ var quotes=[
     '"Of all the words of mice and men, the saddest are, \'It might have been.\' -- Kurt Vonnegut, Cat\'s Cradle',
     'Tory MP, speaking of Churchill: "We just dont know what to make of him." <br>Lady Astor: "How about a nice rug?"',
     'Winston Churchill was once asked, “Doesn\’t it thrill you to know that every time you make a speech, the hall is packed to overflowing?”  <br><br>“It\’s quite flattering,” replied Winston, “But whenever I feel that way, I always remember that if instead of making a political speech I was being hanged, the crowd would be twice as big."',
+    '"Things that have never happened before happen all the time" -- Scott Sagan',
+    '“The line between “inspiringly bold” and “foolishly reckless” can be a millimeter thick and only visible with hindsight. Risk and Luck are doppelgangers.” --Morgan Housel',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
