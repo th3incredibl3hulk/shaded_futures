@@ -191,7 +191,7 @@ var quotes=[
     '"There are decades where nothing happens; and there are weeks where decades happen." --Vladimir Lenin',
     '"Not all who wander are lost." --JRR Tolkien',
     '"Fear an old man in a profession where men die young." --Unknown',
-    '"However beautiful the strategy, you shoudl occassionally look at the results." --Unknown',
+    '"However beautiful the strategy, you should occassionally look at the results." --Unknown',
     '"We hire for skills and the whole person shows up." --Unknown',
     '"If you want to go fast, go alone.  If you want to go far, go together." --African Proverb',
     '"Give every man thine ear, but few thy voice; take each man\'s censure but reserve thy judgment." --Unknown',
