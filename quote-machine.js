@@ -96,6 +96,7 @@ var quotes=[
     '"At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. <br><br>Heller responds,“Yes, but I have something he will never have — enough.”',
     '"Success is a lousy teacher. It seduces smart people into thinking they can\'t lose." --Bill Gates',
     '"I would rather be right than consistent." --Winston Churchill',
+    '“What the caterpillar calls the end of the world, the master calls a butterfly." -―Richard Bach, Illusions: The Adventures of a Reluctant Messiah',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -281,6 +282,10 @@ var quotes=[
     'Winston Churchill was once asked, “Doesn\’t it thrill you to know that every time you make a speech, the hall is packed to overflowing?”  <br><br>“It\’s quite flattering,” replied Winston, “But whenever I feel that way, I always remember that if instead of making a political speech I was being hanged, the crowd would be twice as big."',
     '"Things that have never happened before happen all the time" -- Scott Sagan',
     '“The line between “inspiringly bold” and “foolishly reckless” can be a millimeter thick and only visible with hindsight. Risk and Luck are doppelgangers.” --Morgan Housel',
+    '"In the course of my life I have often had to eat my own words, and I must confess that I have always found it a wholesome diet"  --Winston Churchill',
+    '"When the rich rob the poor, it\'s called business. When the poor fights back, it\'s called terrorism." --Mark Twain',
+    '"My own grandfather used to express similar wisdom: Doing two things like a half-wit never equals doing one thing like a whole wit." --Daniel Meyer, Setting the Table',
+    '"The Road to Success is Paved with Mistakes Well Handled" --Daniel Meyer, Setting the Table',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
