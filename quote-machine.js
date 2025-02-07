@@ -285,7 +285,7 @@ var quotes=[
     '"In the course of my life I have often had to eat my own words, and I must confess that I have always found it a wholesome diet"  --Winston Churchill',
     '"When the rich rob the poor, it\'s called business. When the poor fights back, it\'s called terrorism." --Mark Twain',
     '"My own grandfather used to express similar wisdom: Doing two things like a half-wit never equals doing one thing like a whole wit." --Daniel Meyer, Setting the Table',
-    '"The Road to Success is Paved with Mistakes Well Handled" --Daniel Meyer, Setting the Table',
+    '"The road to success is paved with mistakes well handled" --Daniel Meyer, Setting the Table',
     '"I was ashamed of myself when I realized life was a costume party, and I attended with my real face." --Franz Kafka',
     '"Once Churchill responded, while feigning sleep in Parliament, to the question “Must you sleep while I\’m speaking?!” With “no it is purely voluntary”',
     '"Abandon half, all ye who enter here" -—Labour party proposed sign for the League of Nations when The Hoare Laval plan proposed Ethiopia simply surrender 2/3 of the country to the Italian invaders in 1935, showing the League of Nation\'s lack of spine',
