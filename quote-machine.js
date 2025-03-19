@@ -292,6 +292,8 @@ var quotes=[
     '“Wisdom is chasing her but she is faster” --Nigerian Proverb',
     '"A computer is like air conditioning.  It becomes useless when you open windows." --Linus Torvalds',
     '"Common sense is a flower that doesn\'t grow in everyone\'s garden." --Unknown',
+    '"It requires hard power, and hard power in this century will be built on software." -- Alexander C. Karp, CEO of Palantir Technologies',
+    '"Churchill will write his name in history. Take care he does not write it in blood.” -- AG Gardiner on Churchill\'s soldierly instincts',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
