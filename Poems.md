@@ -169,6 +169,29 @@ Good-Bye<br>
 By Ralph Waldo Emerson
 
 
+---
+
+
+I knew a simple soldier boy<br>
+Who grinned at life in empty joy,<br>
+Slept soundly through the lonesome dark,<br>
+And whistled early with the lark.<br><br>
+In winter trenches, cowed and glum,<br>
+With crumps and lice and lack of rum,<br>
+He put a bullet through his brain.<br>
+No one spoke of him again.<br><br>
+You smug-faced crowds with kindling eye<br>
+Who cheer when soldier lads march by,<br>
+Sneak home and pray you'll never know<br>
+The hell where youth and laughter go.<br>
+
+Suicide in the Trenches<br>
+S. Sassoon
+
+
+
+
+
 
 [horatius_link]: https://www.artofmanliness.com/character/manly-lessons/manvotional-horatius-at-the-bridge/
 
