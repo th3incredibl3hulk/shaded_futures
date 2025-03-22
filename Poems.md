@@ -54,7 +54,7 @@ By William Blake
 >Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, 'Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do.<br><br> 
 We were born to make manifest the glory of God that is within us. It's not just in some of us; it's in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.
 
-A Return to Love: Reflections on the Principles of "A Course in Miracles"
+A Return to Love: Reflections on the Principles of "A Course in Miracles"<br>
 By Marianne Williamson
 
 ---
@@ -128,10 +128,49 @@ Poem by Ella Wheeler Wilcox
 <br>
 "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender, and even if, which I do not for a moment believe, this island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British fleet, would carry on the struggle, until, in God's good time, the new world, with all its power and might, steps forth to the rescue and the liberation of the old."<br>
 
-Winston Churchill,
+Winston Churchill<br>
 Speech to the House of Commons - 4 June 1940
 
+
+---
+
+>Good-bye, proud world! I'm going home:<br>
+Thou art not my friend, and I'm not thine.<br>
+Long through thy weary crowds I roam;<br>
+A river-ark on the ocean brine,<br>
+Long I've been tossed like the driven foam;<br>
+But now, proud world! I'm going home.<br><br>
+Good-bye to Flattery's fawning face;<br>
+To Grandeur with his wise grimace;<br>
+To upstart Wealth's averted eye;<br>
+To supple Office, low and high;<br>
+To crowded halls, to court and street;<br>
+To frozen hearts and hasting feet;<br>
+To those who go, and those who come;<br>
+Good-bye, proud world! I'm going home.<br><br>
+I am going to my own hearth-stone,<br>
+Bosomed in yon green hills alone, —<br>
+A secret nook in a pleasant land,<br>
+Whose groves the frolic fairies planned;<br>
+Where arches green, the livelong day,<br>
+Echo the blackbird's roundelay,<br>
+And vulgar feet have never trod<br>
+A spot that is sacred to thought and God.<br><br>
+O, when I am safe in my sylvan home,<br>
+I tread on the pride of Greece and Rome;<br>
+And when I am stretched beneath the pines,<br>
+Where the evening star so holy shines,<br>
+I laugh at the lore and the pride of man,<br>
+At the sophist schools, and the learned clan;<br>
+For what are they all, in their high conceit,<br>
+When man in the bush with God may meet? <br>
+
+Good-Bye<br>
+By Ralph Waldo Emerson
 
 
 
 [horatius_link]: https://www.artofmanliness.com/character/manly-lessons/manvotional-horatius-at-the-bridge/
+
+
+
