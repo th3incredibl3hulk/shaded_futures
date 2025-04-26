@@ -294,6 +294,10 @@ var quotes=[
     '"Common sense is a flower that doesn\'t grow in everyone\'s garden." --Unknown',
     '"It requires hard power, and hard power in this century will be built on software." -- Alexander C. Karp, CEO of Palantir Technologies',
     '"Churchill will write his name in history. Take care he does not write it in blood.” -- AG Gardiner on Churchill\'s soldierly instincts',
+    '"To develop foresight you must practice hindsight" --Jane McGonigal',
+    '"The dead outnumber the living fourteen to one, and we ignore the accumulated experience of such a huge majority of mankind at our peril” -―Niall Ferguson, Civilization: The West and the Rest',
+    '"Britains ruling class takes its weekends in the country while Hitler takes his countries in the weekends" -—Winston Churchill on the British elite during the run up to war',
+    '"I\'ve always been impulsive. My thinking is usually pretty good, but I always seem to do it after I do my talking" -- The Immortal, Roger Zelazny',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -318,7 +322,9 @@ var quotes=[
     '"Before we\'re through with them, the Japanese language will be spoken only in hell." --Admiral William Halsey Jr',
     '"The wicked flee when no man pursueth: but the righteous are bold as a lion." -- Proverbs 28:1',
     '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! Simpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959',
-    '"Religion and ethics were not always—or even frequently—mutually compatible. The demands of religious absolutism or fundamentalism or rampaging relativism often reflected the worst aspects of contemporary culture or prejudices rather than a system which both man and God could live under with a sense of real justice." --Dan Simmons, The Fall of Hyperion'
+    '"Religion and ethics were not always—or even frequently—mutually compatible. The demands of religious absolutism or fundamentalism or rampaging relativism often reflected the worst aspects of contemporary culture or prejudices rather than a system which both man and God could live under with a sense of real justice." --Dan Simmons, The Fall of Hyperion',
+    '"Some things have to be believed to be seen" --Ralph Hodgson',
+    '"But I am mistaken in speaking of a Christian republic; the terms are mutually exclusive. Christianity preaches only servitude and dependence. Its spirit is so favorable to tyranny that it always profits by such a regime. True Christians are made to be slaves, and they know it and do not much mind; this short life counts for too little in their eyes." --Jean-Jacques Rousseau'
 ]
 
 function newQuote(){
