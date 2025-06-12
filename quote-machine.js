@@ -97,6 +97,7 @@ var quotes=[
     '"Success is a lousy teacher. It seduces smart people into thinking they can\'t lose." --Bill Gates',
     '"I would rather be right than consistent." --Winston Churchill',
     '“What the caterpillar calls the end of the world, the master calls a butterfly." -―Richard Bach, Illusions: The Adventures of a Reluctant Messiah',
+    '"The statesman\'s task is to hear God\'s footsteps marching through history, and to try and catch on to His coattails as He marches past." -― Otto von Bismarck',
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -324,7 +325,13 @@ var quotes=[
     '"Nothing had been so hateful in the sight of these mobs as the man of learning, at first because they had served the princes, but then later because they refused to join in the bloodletting and tried to oppose the mobs, calling the crowds \'bloodthirsty simpletons.\' <br><br> Joyfully the mobs accepted the name, took up the cry: Simpletons! Yes, yes! I\'m a simpleton! Are you a simpleton? We\'ll build a town and we\'ll call it Simple Town, because by then all the smart bastards that caused all this, they\'ll be dead! Simpletons! Let\'s go! This ought to show \'em! Anybody here not a simpleton? Get the bastard, if there is!" -- Walter Miller, A Canticle for Leibowitz, 1959',
     '"Religion and ethics were not always—or even frequently—mutually compatible. The demands of religious absolutism or fundamentalism or rampaging relativism often reflected the worst aspects of contemporary culture or prejudices rather than a system which both man and God could live under with a sense of real justice." --Dan Simmons, The Fall of Hyperion',
     '"Some things have to be believed to be seen" --Ralph Hodgson',
-    '"But I am mistaken in speaking of a Christian republic; the terms are mutually exclusive. Christianity preaches only servitude and dependence. Its spirit is so favorable to tyranny that it always profits by such a regime. True Christians are made to be slaves, and they know it and do not much mind; this short life counts for too little in their eyes." --Jean-Jacques Rousseau'
+    '"But I am mistaken in speaking of a Christian republic; the terms are mutually exclusive. Christianity preaches only servitude and dependence. Its spirit is so favorable to tyranny that it always profits by such a regime. True Christians are made to be slaves, and they know it and do not much mind; this short life counts for too little in their eyes." --Jean-Jacques Rousseau',
+    '"What is this history of Fantine? It is society purchasing a slave. From whom? From misery. From hunger, cold, isolation, destitution. A dolorous bargain. A soul for a morsel of bread. Misery offers; society accepts." -- Les Miserables',
+    '"Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth[e] last for a thousand years, men will still say, \'This was their finest hour.\'" -- Winston Churchill',
+    '"I have received from the Chiefs of the French Republic, and in particular form its indomitable Prime Minister, M. Reynaud, the most sacred pledges that whatever happens they will fight to the end, be it bitter or be it glorious. Nay, if we fight to the end, it can only be glorious." -- Winston Churchill',
+    '"There is a painful joke that Europeans often tell of their Gallic neighbors: God created France, the most beautiful country in the world with so much good in it, and ended up feeling guilty about it. He had to do something to make it fair. And so, he created the French people." --Janine di Giovanni',
+    '"We have seen that in Paris he did not fit in. No glorious future dreamed of alighting upon this solitary old man. No budding ambition was foolish enough to ripen in his shadow. His canons and his grand vicars were good old men, rather common like himself, and like him immured in that diocese from which there was no road to promotion, and they resembled their bishop, with this difference, that they were finished, and he was perfected."--Les Miserables',
+    '"Have I ever told a lie in my life?"  —- Adolf Hitler to the Swedish ambassador while Hitler claimed he would sink the entire royal navy'
 ]
 
 function newQuote(){
