@@ -98,6 +98,10 @@ var quotes=[
     '"I would rather be right than consistent." --Winston Churchill',
     '“What the caterpillar calls the end of the world, the master calls a butterfly." -―Richard Bach, Illusions: The Adventures of a Reluctant Messiah',
     '"The statesman\'s task is to hear God\'s footsteps marching through history, and to try and catch on to His coattails as He marches past." -― Otto von Bismarck',
+    '"If you want to find out what a man is to the bottom, give him power. Any man can stand adversity — only a great man can stand prosperity." -- Robert G. Ingersoll',
+    '"Not being heard is no reason for silence.” -― Hugo, Victor, Les Misérables',
+    '“A garden to walk in and immensity to dream in--what more could he ask? A few flowers at his feet and above him the stars.” ―- Victor Hugo, Les Misérables',
+
 
     //Kindness & Compassion
     '"\'I\'m sorry\' is like a band-aid for hurt feelings." --Unknown', //Larry Hau
@@ -106,6 +110,7 @@ var quotes=[
     '"Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed." --Herman Melville',
     '"Be kind for everyone you meet is fighting a battle you know nothing about."  --Plato',
     '"If men could only know each other, they would neither idolize nor hate." --Elbert Hubbard',
+    '“There is always more misery among the lower classes than there is humanity in the higher.” -― Victor Hugo, Les Misérables',
 
     //Love 
     '"At the touch of love, everyone becomes a poet." --Plato',
@@ -113,6 +118,7 @@ var quotes=[
     '"There\'s so much of you here with me, really, that it\'s a pity you aren\'t all here.” -- D.H. Lawrence, Lady Chatterly\'s Lover',
     '"There\'s lots of good fish in the sea...maybe...but the vast masses seem to be mackerel or herring, and if you\'re not mackerel or herring yourself, you are likely to find very few good fish in the sea.” -― D.H. Lawrence, Lady Chatterley\'s Lover',
     '"But, Dad…” she hesitated, “It will mean raising me all over again. It means suffering through my childhood for a third time. No parent should be asked to do that.” <br><br>Sol managed a smile. “No parent would refuse that, Rachel.” -― Dan Simmons, The Fall of Hyperion',
+    '"What Is Love? I have met in the streets a very poor young man who was in love. His hat was old, his coat worn, the water passed through his shoes and the stars through his soul." -― Victor Hugo, Les Misérables',
 
     //Miscellaneous
     '"Don\'t lose your temper, some poor soul may find it." --Unknown',
@@ -299,6 +305,11 @@ var quotes=[
     '"The dead outnumber the living fourteen to one, and we ignore the accumulated experience of such a huge majority of mankind at our peril” -―Niall Ferguson, Civilization: The West and the Rest',
     '"Britains ruling class takes its weekends in the country while Hitler takes his countries in the weekends" -—Winston Churchill on the British elite during the run up to war',
     '"I\'ve always been impulsive. My thinking is usually pretty good, but I always seem to do it after I do my talking" -- The Immortal, Roger Zelazny',
+    '"Pecunia non olet." -- Roman saying meaning "Money doesn\'t stink."',
+    '"The socialist dream is no longer utopia but queuetopia” -— Winston Churchill on the Labour Party in Britain', 
+    '"Five years ago all felt safe; five years ago we were all looking forward to peace, to a period in which mankind would rejoice in the treasures which science can spread to all classes. Look at the difference in our position now! We find ourselves compelled once again to face the hateful problems and ordeals which those of us who worked and toiled in the last struggle hoped were gone forever." -- Winston Churchill, Speech to Parliament',
+    '"He was at that period of life when the mind of men who think is composed, in nearly equal parts, of depth and ingenuousness. A grave situation being given, he had all that is required to be stupid: one more turn of the key, and he might be sublime." -- Les Miserables by Victor Hugo',
+    '"There is no such thing as gambling. Only spending." -- Unknown',
 
     //Religion
     '"If there is no God, than I am God." --Fyodor Dostoevsky',
@@ -331,7 +342,10 @@ var quotes=[
     '"I have received from the Chiefs of the French Republic, and in particular form its indomitable Prime Minister, M. Reynaud, the most sacred pledges that whatever happens they will fight to the end, be it bitter or be it glorious. Nay, if we fight to the end, it can only be glorious." -- Winston Churchill',
     '"There is a painful joke that Europeans often tell of their Gallic neighbors: God created France, the most beautiful country in the world with so much good in it, and ended up feeling guilty about it. He had to do something to make it fair. And so, he created the French people." --Janine di Giovanni',
     '"We have seen that in Paris he did not fit in. No glorious future dreamed of alighting upon this solitary old man. No budding ambition was foolish enough to ripen in his shadow. His canons and his grand vicars were good old men, rather common like himself, and like him immured in that diocese from which there was no road to promotion, and they resembled their bishop, with this difference, that they were finished, and he was perfected."--Les Miserables',
-    '"Have I ever told a lie in my life?"  —- Adolf Hitler to the Swedish ambassador while Hitler claimed he would sink the entire royal navy'
+    '"Have I ever told a lie in my life?"  —- Adolf Hitler to the Swedish ambassador while Hitler claimed he would sink the entire royal navy',
+    '“To love another person is to see the face of God.” -― Victor Hugo, Les Misérables',
+    '"There are people who observe the rules of honor as we do the stars, from a very long way off." -― Victor Hugo, Les Misérables',
+    '“Before him he saw two roads, both equally straight; but he did see two; and that terrified him--he who had never in his life known anything but one straight line. And, bitter anguish, these two roads were contradictory.” -― Victor Hugo, Les Misérables'
 ]
 
 function newQuote(){
